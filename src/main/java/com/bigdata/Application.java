@@ -5,5 +5,6 @@ public class Application {
         System.out.println("hello");
         System.out.println("world");
         System.out.println("hahaahahahahahahahhah");
+        System.out.println("bbbbbb");
     }
 }
